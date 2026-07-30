@@ -39,3 +39,8 @@ desktop.ini
 
 # Model files (uncomment if you don't want to track large model files)
 # saved_model/*.pkl
+
+# AI assistant configs
+.agents/
+.claude/
+.gemini/
