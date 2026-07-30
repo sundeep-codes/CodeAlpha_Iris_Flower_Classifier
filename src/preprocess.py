@@ -36,7 +36,7 @@ def get_summary_statistics(df):
     """Returns df.describe()."""
     return df.describe()
 
-def prepare_data(df, test_size=0.2, random_state=42):
+def prepare_data(df, test_size=0.3, random_state=12):
     """
     Splits into X_train, X_test, y_train, y_test using train_test_split.
     Uses StandardScaler to scale features.
