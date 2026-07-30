@@ -345,7 +345,7 @@ GitHub: [@sundeep-codes](https://github.com/sundeep-codes)
 ## 🌐 Deployment & Repository
 
 ### 🚀 Live Streamlit Application
-🔗 **[Click here to use the application](https://codealpha-iris-flower-classifier.streamlit.app/)**
+🔗 **[https://code-alpha-iris-flower-classifier.streamlit.app/](https://code-alpha-iris-flower-classifier.streamlit.app/)**
 
 ### 📂 GitHub Repository
 💻 **[https://github.com/sundeep-codes/CodeAlpha_Iris_Flower_Classifier](https://github.com/sundeep-codes/CodeAlpha_Iris_Flower_Classifier)**
