@@ -164,7 +164,7 @@ with st.sidebar:
         | Classes | 3 |
         | Balance | 50 per class |
 
-        Source: UCI Machine Learning Repository
+        Source: https://www.kaggle.com/datasets/saurabh00007/iriscsv
         """)
 
     with st.expander("ML workflow", icon=":material/account_tree:"):
@@ -206,7 +206,7 @@ st.markdown(
 <h1 class="hero-title">Iris Flower Species Classifier</h1>
 <p class="hero-sub">Machine learning classification powered by Scikit-Learn</p>
 <div class="badge-row">
-    <span class="hbadge hbadge-g">● 100% Accuracy</span>
+    <span class="hbadge hbadge-g">● 97.8% Accuracy</span>
     <span class="hbadge hbadge-i">Decision Tree</span>
     <span class="hbadge hbadge-a">150 Samples</span>
 </div>
@@ -219,7 +219,7 @@ st.markdown("")
 
 # ── Metrics row ───────────────────────────────────────────────────────────
 m1, m2, m3, m4 = st.columns(4)
-m1.metric("Model accuracy", "100%")
+m1.metric("Model accuracy", "97.8%")
 m2.metric("Dataset size", "150 samples")
 m3.metric("Species count", "3 classes")
 m4.metric("Best model", "Decision Tree")

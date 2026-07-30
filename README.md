@@ -224,11 +224,11 @@ The application compares multiple machine learning algorithms and automatically 
 
 | Model | Accuracy | Precision | Recall | F1 Score |
 |---|:---:|:---:|:---:|:---:|
-| **Decision Tree** | **100.00%** | **100.00%** | **100.00%** | **100.00%** |
-| **K-Nearest Neighbors** | **100.00%** | **100.00%** | **100.00%** | **100.00%** |
-| **Logistic Regression** | **100.00%** | **100.00%** | **100.00%** | **100.00%** |
+| **Decision Tree** | **97.78%** | **97.96%** | **97.78%** | **97.78%** |
+| **Logistic Regression** | **97.78%** | **97.96%** | **97.78%** | **97.78%** |
+| **K-Nearest Neighbors** | **95.56%** | **95.74%** | **95.56%** | **95.58%** |
 
-*Evaluated on a 20% holdout test set (30 samples) with `random_state=42`.*
+*Evaluated on a 30% holdout test set (45 samples) with `random_state=12`.*
 
 ---
 
