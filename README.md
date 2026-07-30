@@ -83,11 +83,8 @@ The application includes:
 
 ### 🖼️ Prediction Dashboard
 <div align="center">
-  <img src=" <img width="1920" height="966" alt="Screenshot 2026-07-30 211513" src="https://github.com/user-attachments/assets/ca0aed2f-4379-4667-b5e0-1bb7f5b20a93" />
-  <img src=" <img width="1920" height="962" alt="Screenshot 2026-07-30 211527" src="https://github.com/user-attachments/assets/c61c5b14-f40b-47df-8d17-e7c46f6c6f26" />
- " />
-  
- "/>
+  <img src="https://github.com/user-attachments/assets/ca0aed2f-4379-4667-b5e0-1bb7f5b20a93" />
+  <img src="https://github.com/user-attachments/assets/c61c5b14-f40b-47df-8d17-e7c46f6c6f26" />
 </div>
 
 ### 📈 Model Performance & Visualizations
